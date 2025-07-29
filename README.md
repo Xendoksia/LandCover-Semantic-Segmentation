@@ -5,6 +5,10 @@ A deep learning project for semantic segmentation of land cover imagery using Py
 
 ## 📋 Overview
 
+
+![Ekran Kaydı 2025-07-29 212400](https://github.com/user-attachments/assets/f52bb5bd-b282-47c1-b943-dfb6348cb69a)
+
+
 This project implements semantic segmentation for land cover classification with 8 different classes:
 
 - 0-**No-data** (Black)
